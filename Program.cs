@@ -27,7 +27,7 @@ class Program
         while (running)
         {
             Console.Clear();
-            Console.WriteLine("\n=== PAYROLL SYSTEM (Main) ===");
+            Console.WriteLine("\n=== EMPLOYEE PAYROLL & HR SYSTEM ===");
             Console.WriteLine("1. Create");
             Console.WriteLine("2. Read (View All)");
             Console.WriteLine("3. Search / Filter");
